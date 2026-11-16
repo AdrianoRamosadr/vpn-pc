@@ -1,0 +1,6 @@
+{
+  "name": "HX Tunnel PC",
+  "description": "Cliente VPN e Túnel SSH/CloudFront para PC com Custom Tweak, IP Hunter, Per-App Proxy, VPNTether e gestão de HWID.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
